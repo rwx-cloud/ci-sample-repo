@@ -1,0 +1,12 @@
+echo "Starting tsc errors..."
+echo ""
+echo "example-file.ts:10:5 - error TS2322: Type '2' is not assignable to type '1'."
+echo ""
+echo "10 let x: 1 = 2;"
+echo "       ~"
+echo ""
+echo "example-file.ts:11:11 - error TS2304: Cannot find name 'z'."
+echo ""
+echo "11 const y = z;"
+echo "             ~"
+exit 1
