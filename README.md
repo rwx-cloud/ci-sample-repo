@@ -1,1 +1,1 @@
-# sample-repo-for-mint
+# ci-sample-repo
